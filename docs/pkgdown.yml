@@ -1,10 +1,12 @@
-pandoc: 2.17.1.1
-pkgdown: 2.0.3
+pandoc: 3.6.3
+pkgdown: 2.1.3
 pkgdown_sha: ~
 articles:
   Calcofi: Calcofi.html
   Erddap: Erddap.html
   Marine: Marine.html
   onmsR: onmsR.html
-last_built: 2022-06-03T23:36Z
-
+last_built: 2025-11-12T21:24Z
+urls:
+  reference: https://noaa-onms.github.io/onmsR/reference
+  article: https://noaa-onms.github.io/onmsR/articles

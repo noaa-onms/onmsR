@@ -5,8 +5,8 @@
 \title{Map of CALCOFI sites}
 \usage{
 calcofi_map(
- 
-    geo = "https://raw.githubusercontent.com/marinebon/calcofi-analysis/master/data/plys_cinms.geojson",
+  geo =
+    "https://raw.githubusercontent.com/marinebon/calcofi-analysis/master/data/plys_cinms.geojson",
   filter_str = "ply_code != \\"SoCal\\"",
   colors = c("red", "yellow")
 )

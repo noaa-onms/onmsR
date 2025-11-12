@@ -7,11 +7,11 @@
 rocky_tsplot(data, nms, sp_code, sp_name, sp_filter = "ALL")
 }
 \arguments{
-\item{data}{Either \link{rocky_data} or \link{rocky_counts}.}
+\item{data}{Either \link{rocky_cover} or \link{rocky_counts}.}
 
 \item{nms}{The National Marine Sanctuary code, e.g. "CINMS", from \link{sanctuaries}.}
 
-\item{sp_code}{The species code of interest as referenced in \link{rocky_data} or \link{rocky_counts} and described in \link{rocky_species}.}
+\item{sp_code}{The species code of interest as referenced in \link{rocky_cover} or \link{rocky_counts} and described in \link{rocky_species}.}
 
 \item{sp_name}{The species name used in the title of the plot.}
 

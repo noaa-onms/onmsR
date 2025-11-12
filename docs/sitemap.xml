@@ -1,162 +1,56 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>/404.html</loc>
-  </url>
-  <url>
-    <loc>/LICENSE-text.html</loc>
-  </url>
-  <url>
-    <loc>/articles/Calcofi.html</loc>
-  </url>
-  <url>
-    <loc>/articles/Erddap.html</loc>
-  </url>
-  <url>
-    <loc>/articles/Introduction.html</loc>
-  </url>
-  <url>
-    <loc>/articles/Introduction2.html</loc>
-  </url>
-  <url>
-    <loc>/articles/Marine.html</loc>
-  </url>
-  <url>
-    <loc>/articles/Overview.html</loc>
-  </url>
-  <url>
-    <loc>/articles/Reporting.html</loc>
-  </url>
-  <url>
-    <loc>/articles/Utilities.html</loc>
-  </url>
-  <url>
-    <loc>/articles/index.html</loc>
-  </url>
-  <url>
-    <loc>/articles/onmsR.html</loc>
-  </url>
-  <url>
-    <loc>/authors.html</loc>
-  </url>
-  <url>
-    <loc>/index.html</loc>
-  </url>
-  <url>
-    <loc>/news/index.html</loc>
-  </url>
-  <url>
-    <loc>/reference/calcofi_map.html</loc>
-  </url>
-  <url>
-    <loc>/reference/calcofi_plot.html</loc>
-  </url>
-  <url>
-    <loc>/reference/calculate_SST_anomaly.html</loc>
-  </url>
-  <url>
-    <loc>/reference/calculate_statistics.html</loc>
-  </url>
-  <url>
-    <loc>/reference/create_website.html</loc>
-  </url>
-  <url>
-    <loc>/reference/generate_html_4_rmd.html</loc>
-  </url>
-  <url>
-    <loc>/reference/get_dates.html</loc>
-  </url>
-  <url>
-    <loc>/reference/get_figure_info.html</loc>
-  </url>
-  <url>
-    <loc>/reference/get_modal_info.html</loc>
-  </url>
-  <url>
-    <loc>/reference/get_nms_polygons.html</loc>
-  </url>
-  <url>
-    <loc>/reference/glossarize_md.html</loc>
-  </url>
-  <url>
-    <loc>/reference/index.html</loc>
-  </url>
-  <url>
-    <loc>/reference/initial_build.html</loc>
-  </url>
-  <url>
-    <loc>/reference/insert_tooltip.html</loc>
-  </url>
-  <url>
-    <loc>/reference/make_rocky_sites.html</loc>
-  </url>
-  <url>
-    <loc>/reference/make_sites_csv.html</loc>
-  </url>
-  <url>
-    <loc>/reference/map_nms_sites.html</loc>
-  </url>
-  <url>
-    <loc>/reference/md_caption.html</loc>
-  </url>
-  <url>
-    <loc>/reference/pipe.html</loc>
-  </url>
-  <url>
-    <loc>/reference/plot_SST_anomaly.html</loc>
-  </url>
-  <url>
-    <loc>/reference/plot_intertidal_nms.html</loc>
-  </url>
-  <url>
-    <loc>/reference/plot_metric_timeseries.html</loc>
-  </url>
-  <url>
-    <loc>/reference/ply2erddap.html</loc>
-  </url>
-  <url>
-    <loc>/reference/read_csv_fmt.html</loc>
-  </url>
-  <url>
-    <loc>/reference/render_all_rmd.html</loc>
-  </url>
-  <url>
-    <loc>/reference/render_figure.html</loc>
-  </url>
-  <url>
-    <loc>/reference/rmd2html.html</loc>
-  </url>
-  <url>
-    <loc>/reference/rocky_clusters.html</loc>
-  </url>
-  <url>
-    <loc>/reference/rocky_counts.html</loc>
-  </url>
-  <url>
-    <loc>/reference/rocky_cover.html</loc>
-  </url>
-  <url>
-    <loc>/reference/rocky_map.html</loc>
-  </url>
-  <url>
-    <loc>/reference/rocky_pctcover.html</loc>
-  </url>
-  <url>
-    <loc>/reference/rocky_site_groups.html</loc>
-  </url>
-  <url>
-    <loc>/reference/rocky_sites.html</loc>
-  </url>
-  <url>
-    <loc>/reference/rocky_species.html</loc>
-  </url>
-  <url>
-    <loc>/reference/rocky_timeseries.html</loc>
-  </url>
-  <url>
-    <loc>/reference/rocky_tsplot.html</loc>
-  </url>
-  <url>
-    <loc>/reference/sanctuaries.html</loc>
-  </url>
+<urlset xmlns = 'http://www.sitemaps.org/schemas/sitemap/0.9'>
+<url><loc>https://noaa-onms.github.io/onmsR/404.html</loc></url>
+<url><loc>https://noaa-onms.github.io/onmsR/LICENSE-text.html</loc></url>
+<url><loc>https://noaa-onms.github.io/onmsR/articles/Calcofi.html</loc></url>
+<url><loc>https://noaa-onms.github.io/onmsR/articles/Erddap.html</loc></url>
+<url><loc>https://noaa-onms.github.io/onmsR/articles/Introduction.html</loc></url>
+<url><loc>https://noaa-onms.github.io/onmsR/articles/Introduction2.html</loc></url>
+<url><loc>https://noaa-onms.github.io/onmsR/articles/Marine.html</loc></url>
+<url><loc>https://noaa-onms.github.io/onmsR/articles/Overview.html</loc></url>
+<url><loc>https://noaa-onms.github.io/onmsR/articles/Reporting.html</loc></url>
+<url><loc>https://noaa-onms.github.io/onmsR/articles/Utilities.html</loc></url>
+<url><loc>https://noaa-onms.github.io/onmsR/articles/index.html</loc></url>
+<url><loc>https://noaa-onms.github.io/onmsR/articles/onmsR.html</loc></url>
+<url><loc>https://noaa-onms.github.io/onmsR/authors.html</loc></url>
+<url><loc>https://noaa-onms.github.io/onmsR/index.html</loc></url>
+<url><loc>https://noaa-onms.github.io/onmsR/news/index.html</loc></url>
+<url><loc>https://noaa-onms.github.io/onmsR/reference/calcofi_map.html</loc></url>
+<url><loc>https://noaa-onms.github.io/onmsR/reference/calcofi_plot.html</loc></url>
+<url><loc>https://noaa-onms.github.io/onmsR/reference/calculate_SST_anomaly.html</loc></url>
+<url><loc>https://noaa-onms.github.io/onmsR/reference/calculate_statistics.html</loc></url>
+<url><loc>https://noaa-onms.github.io/onmsR/reference/create_website.html</loc></url>
+<url><loc>https://noaa-onms.github.io/onmsR/reference/generate_html_4_rmd.html</loc></url>
+<url><loc>https://noaa-onms.github.io/onmsR/reference/get_dates.html</loc></url>
+<url><loc>https://noaa-onms.github.io/onmsR/reference/get_figure_info.html</loc></url>
+<url><loc>https://noaa-onms.github.io/onmsR/reference/get_modal_info.html</loc></url>
+<url><loc>https://noaa-onms.github.io/onmsR/reference/get_nms_polygons.html</loc></url>
+<url><loc>https://noaa-onms.github.io/onmsR/reference/glossarize_md.html</loc></url>
+<url><loc>https://noaa-onms.github.io/onmsR/reference/index.html</loc></url>
+<url><loc>https://noaa-onms.github.io/onmsR/reference/initial_build.html</loc></url>
+<url><loc>https://noaa-onms.github.io/onmsR/reference/insert_tooltip.html</loc></url>
+<url><loc>https://noaa-onms.github.io/onmsR/reference/make_rocky_sites.html</loc></url>
+<url><loc>https://noaa-onms.github.io/onmsR/reference/make_sites_csv.html</loc></url>
+<url><loc>https://noaa-onms.github.io/onmsR/reference/map_nms_sites.html</loc></url>
+<url><loc>https://noaa-onms.github.io/onmsR/reference/md_caption.html</loc></url>
+<url><loc>https://noaa-onms.github.io/onmsR/reference/pipe.html</loc></url>
+<url><loc>https://noaa-onms.github.io/onmsR/reference/plot_SST_anomaly.html</loc></url>
+<url><loc>https://noaa-onms.github.io/onmsR/reference/plot_intertidal_nms.html</loc></url>
+<url><loc>https://noaa-onms.github.io/onmsR/reference/plot_metric_timeseries.html</loc></url>
+<url><loc>https://noaa-onms.github.io/onmsR/reference/ply2erddap.html</loc></url>
+<url><loc>https://noaa-onms.github.io/onmsR/reference/read_csv_fmt.html</loc></url>
+<url><loc>https://noaa-onms.github.io/onmsR/reference/render_all_rmd.html</loc></url>
+<url><loc>https://noaa-onms.github.io/onmsR/reference/render_figure.html</loc></url>
+<url><loc>https://noaa-onms.github.io/onmsR/reference/rmd2html.html</loc></url>
+<url><loc>https://noaa-onms.github.io/onmsR/reference/rocky_clusters.html</loc></url>
+<url><loc>https://noaa-onms.github.io/onmsR/reference/rocky_counts.html</loc></url>
+<url><loc>https://noaa-onms.github.io/onmsR/reference/rocky_cover.html</loc></url>
+<url><loc>https://noaa-onms.github.io/onmsR/reference/rocky_map.html</loc></url>
+<url><loc>https://noaa-onms.github.io/onmsR/reference/rocky_pctcover.html</loc></url>
+<url><loc>https://noaa-onms.github.io/onmsR/reference/rocky_site_groups.html</loc></url>
+<url><loc>https://noaa-onms.github.io/onmsR/reference/rocky_sites.html</loc></url>
+<url><loc>https://noaa-onms.github.io/onmsR/reference/rocky_species.html</loc></url>
+<url><loc>https://noaa-onms.github.io/onmsR/reference/rocky_timeseries.html</loc></url>
+<url><loc>https://noaa-onms.github.io/onmsR/reference/rocky_tsplot.html</loc></url>
+<url><loc>https://noaa-onms.github.io/onmsR/reference/sanctuaries.html</loc></url>
 </urlset>
+

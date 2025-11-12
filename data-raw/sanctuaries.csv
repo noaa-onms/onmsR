@@ -1,17 +1,19 @@
-sanctuary,nms
-American Samoa,NMSAS
-Channel Islands,CINMS
-Cordell Bank,CBNMS
-Florida Keys,FKNMS
-Flower Garden BanksUpdated 03/23/21,FGBNMS
-Gray's Reef,GRNMS
-Greater Farallones,GFNMS
-Hawaiian Islands Humpback Whale,HIHWNMS
-Mallows Bay-Potomac River,MBPR
-Monitor,MNMS
-Monterey Bay,MBNMS
-Olympic Coast,OCNMS
-Papahānaumokuākea,PMNM
-Stellwagen Bank,SBNMS
-Thunder Bay,TBNMS
-Wisconsin Shipwreck Coast,WSCNMS
+nms,sanctuary,url_zip
+CBNMS,Cordell Bank,https://sanctuaries.noaa.gov/library/imast/cbnms_py2.zip
+CHNMS,Chumash Heritage,https://sanctuaries.noaa.gov/media/gis/chnms_py.zip
+CINMS,Channel Islands,https://sanctuaries.noaa.gov/library/imast/cinms_py2.zip
+FGBNMS,Flower Garden Banks,https://sanctuaries.noaa.gov/media/gis/fgbnms_py.zip
+FKNMS,Florida Keys,https://sanctuaries.noaa.gov/library/imast/fknms_py2.zip
+GFNMS,Greater Farallones,https://sanctuaries.noaa.gov/library/imast/gfnms_py2.zip
+GRNMS,Gray's Reef,https://sanctuaries.noaa.gov/library/imast/grnms_py2.zip
+HIHWNMS,Hawaiian Islands Humpback Whale,https://sanctuaries.noaa.gov/library/imast/hihwnms_py2.zip
+LONMS,Lake Ontario,https://sanctuaries.noaa.gov/media/gis/lonms_py.zip
+MBNMS,Monterey Bay,https://sanctuaries.noaa.gov/library/imast/mbnms_py2.zip
+MBPR,Mallows Bay-Potomac River,https://sanctuaries.noaa.gov/media/gis/mbpr_py.zip
+MNMS,Monitor,https://sanctuaries.noaa.gov/library/imast/mnms_py2.zip
+NMSAS,American Samoa,https://sanctuaries.noaa.gov/library/imast/nmsas_py2.zip
+OCNMS,Olympic Coast,https://sanctuaries.noaa.gov/library/imast/ocnms_py2.zip
+PMNM,Papahānaumokuākea,https://sanctuaries.noaa.gov/library/imast/pmnm_py.zip
+SBNMS,Stellwagen Bank,https://sanctuaries.noaa.gov/library/imast/sbnms_py2.zip
+TBNMS,Thunder Bay,https://sanctuaries.noaa.gov/library/imast/tbnms_py2.zip
+WSCNMS,Wisconsin Shipwreck Coast,https://sanctuaries.noaa.gov/media/maps/2021-wisconsin-shipwreck-coast-national-marine-sanctuary_py.zip

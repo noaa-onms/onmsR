@@ -1,3 +1,8 @@
+# onmsR 0.2.4
+
+* Updated `sanctuaries` to latest from https://sanctuaries.noaa.gov/library/imast_gis.html,
+  as of November 12, 2025.
+
 # onmsR 0.2.3
 
 * Drop dependencies on deprecated `rgdal` and `raster` packages in favor of `terra`. 

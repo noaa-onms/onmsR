@@ -35,15 +35,15 @@ rocky_map <- function(nms){
 #' This function generates a plot of time series data collected by the Rocky Intertidal
 #' Monitoring program.
 #'
-#' @param data Either [rocky_data] or [rocky_counts].
+#' @param data Either [rocky_cover] or [rocky_counts].
 #' @param nms The National Marine Sanctuary code, e.g. "CINMS", from [sanctuaries].
-#' @param sp_code The species code of interest as referenced in [rocky_data] or [rocky_counts] and described in [rocky_species].
+#' @param sp_code The species code of interest as referenced in [rocky_cover] or [rocky_counts] and described in [rocky_species].
 #' @param sp_name The species name used in the title of the plot.
 #' @param sp_filter The filter value to apply for [rocky_cover] the `sp_target`
 #'                  and for [rocky_counts] the `sp_method`. Defaults to "ALL".
 #' @return This function returns a dygraph object of the plotted time series data.
 #' @export
-#' @import dplyr dygraphs glue lubridate magrittr mapview RColorBrewer readr tidyr
+#' @import dplyr dygraphs glue lubridate mapview RColorBrewer readr tidyr
 #'
 #' @examples \dontrun{
 #' rocky_tsplot(rocky_cover, "OCNMS", "CHTBAL", "Acorn Barnacles")

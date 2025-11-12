@@ -79,13 +79,14 @@
 
 #' Sanctuaries with spatial information
 #'
-#' A spatial features table with sanctuary name and acronym. The default geometry is the unioned set of features found inside the spatial cell.
+#' A spatial features with sanctuary name and acronym. The default geometry is the unioned set of features found inside the spatial cell.
 #'
-#' @format A tibble with the following columns:
+#' @format A spatial feature tibble with the following columns:
 #' \describe{
-#'   \item{sanctuary}{name of National Marine Sanctuary, e.g. Channel Islands}
 #'   \item{nms}{national marine sanctuary acronym, e.g. CINMS}
-#'   \item{spatial}{a list column of a spatial feature set of individual polygons comprising the sanctuary}
+#'   \item{sanctuary}{name of National Marine Sanctuary, e.g. Channel Islands}
+#'   \item{url_zip}{link to zip file of original shapefile data}
+#'   \item{geom}{geometry of sanctuary}
 #' }
 #' @source \url{https://sanctuaries.noaa.gov/library/imast_gis.html}
 "sanctuaries"

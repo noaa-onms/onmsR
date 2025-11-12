@@ -1,14 +1,19 @@
+url: https://noaa-onms.github.io/onmsR
+
+template:
+  bootstrap: 5
+
 articles:
 - title: onmsR Vignettes
   navbar: ~
   contents:
-  - Introduction
-  - Overview
+  # - Introduction
+  # - Overview
   - Calcofi
   - Erddap
   - Marine
-  - Reporting
-  - Utilities
+  # - Reporting
+  # - Utilities
 
 reference:
 - title: "Data: Fisheries (CalCOFI)"
@@ -29,19 +34,19 @@ reference:
   desc:  Produce interactive maps and plots.
   contents:
   - starts_with("rocky")
-- title: Reporting functions
-  desc: Render html for R markdown files that form the modal windows.
-  contents:
-  - generate_html_4_rmd
-  - get_figure_info
-  - get_modal_info
-  - md_caption
-  - render_all_rmd
-  - render_figure
-  - glossarize_md
-  - insert_tooltip
-  - rmd2html
-  - create_website
+# - title: Reporting functions
+#   desc: Render html for R markdown files that form the modal windows.
+#   contents:
+  #- generate_html_4_rmd
+  # - get_figure_info
+  # - get_modal_info
+  # - md_caption
+  # - render_all_rmd
+  # - render_figure
+  # - glossarize_md
+  # - insert_tooltip
+  # - rmd2html
+  # - create_website
 - title: Sanctuaries utilities
   desc:  Utility functions for Sanctuary regions.
   contents:
